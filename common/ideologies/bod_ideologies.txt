@@ -1,0 +1,57 @@
+ideologies = {
+	national_authoritarianism = {	#国家権威主義
+		types = {
+			national_authoritarianism_ideology = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_REACTIONARY_AUTHORITARIANISM_1"
+			"FACTION_NAME_REACTIONARY_AUTHORITARIANISM_2"
+			"FACTION_NAME_REACTIONARY_AUTHORITARIANISM_3"
+			"FACTION_NAME_REACTIONARY_AUTHORITARIANISM_4"
+			"FACTION_NAME_REACTIONARY_AUTHORITARIANISM_5"
+		}
+		
+		color = { 63 63 63 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.25
+		
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+			can_join_factions = no
+		}
+		
+		modifiers = {
+			mobilization_speed = 0.05
+			generate_wargoal_tension = 0.50
+			join_faction_tension = 0.50
+			lend_lease_tension = 0.10
+			send_volunteers_tension = 0.10
+			guarantee_tension = 0.30
+			civilian_intel_to_others = 0.0
+			army_intel_to_others = 0.0
+			navy_intel_to_others = 0.0
+			airforce_intel_to_others = 0.0
+			resistance_target = 0.05
+			compliance_gain = -0.05
+			political_power_factor = 0.05
+		}
+		
+		faction_modifiers = {
+		}
+		
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		can_be_boosted = yes
+	}
+}
