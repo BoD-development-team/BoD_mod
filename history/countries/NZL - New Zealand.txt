@@ -1,4 +1,4 @@
 capital = 284
 
-set_cosmetic_tag = NZL_GBRbyENG
+set_cosmetic_tag = NZL_GBRandIREbyENG
 set_dictatorship = yes

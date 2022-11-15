@@ -1,4 +1,4 @@
 capital = 559
 
-set_cosmetic_tag = COUNTRY_ITAbySRD_kingdom
+set_cosmetic_tag = SOM_emirates_federation
 set_dictatorship = yes

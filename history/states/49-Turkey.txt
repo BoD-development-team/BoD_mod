@@ -10,8 +10,10 @@ state = {
 	}
 	
 	history = {
-		owner = TUR
-				buildings = {
+		owner = OTT
+		add_core_of = OTT
+		add_core_of = TUR
+		buildings = {
 			infrastructure = 2
 			arms_factory = 2
 			industrial_complex = 2

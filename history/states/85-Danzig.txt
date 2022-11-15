@@ -5,11 +5,11 @@ state = {
 	state_category = city
 	
 	history = {
-		owner = DNZ
+		owner = GER
+		add_core_of = GER
 		add_core_of = DNZ
 		add_core_of = POL
 		add_core_of = KSH
-		add_core_of = GER
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2

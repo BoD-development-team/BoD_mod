@@ -1,4 +1,2 @@
 capital = 684
-
-set_cosmetic_tag = FSM_GBRbyENG
 set_dictatorship = yes

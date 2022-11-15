@@ -1,2 +1,4 @@
-capital = 271
+capital = 546
+
+set_cosmetic_tag = COUNTRY_GERbyPRE_reich
 set_dictatorship = yes

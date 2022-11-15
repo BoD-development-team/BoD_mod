@@ -7,7 +7,8 @@ state = {
 	resources = {	chromium = 3	}
 	
 	history = {
-		owner = CYP
+		owner = OTT
+		add_core_of = OTT
 		add_core_of = CYP
 		buildings = {
 			infrastructure = 2
@@ -17,6 +18,7 @@ state = {
 		victory_points = {	7193	3	}
 		victory_points = {	11984	5	}
 	}
+	
 	provinces = {
 		7193	11984
 	}

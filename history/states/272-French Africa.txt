@@ -7,7 +7,8 @@ state = {
 	resources = {	steel = 3	}
 	
 	history = {
-		owner = SEN
+		owner = WAF
+		add_core_of = WAF
 		add_core_of = SEN
 		buildings = {
 			infrastructure = 2

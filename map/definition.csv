@@ -13261,3 +13261,9 @@
 13260;206;51;134;land;false;mountain;1
 13261;134;226;226;land;false;mountain;1
 13262;192;192;192;land;true;urban;5
+13263;108;131;118;land;true;desert;7
+13264;135;64;131;land;true;desert;7
+13265;174;210;198;land;true;desert;7
+13266;46;82;70;land;false;desert;7
+13267;24;16;16;land;false;desert;7
+13268;51;102;58;land;true;desert;7

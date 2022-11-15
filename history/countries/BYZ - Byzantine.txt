@@ -1,4 +1,0 @@
-capital = 458
-
-set_cosmetic_tag = BYZ_empire
-set_dictatorship = yes

@@ -1,4 +1,0 @@
-capital = 659
-
-set_cosmetic_tag = SOUTHARABIA_federation
-set_dictatorship = yes

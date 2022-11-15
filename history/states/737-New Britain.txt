@@ -6,7 +6,8 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = PNG
+		owner = NGU
+		add_core_of = NGU
 		add_core_of = PNG
 		buildings = {
 			infrastructure = 1

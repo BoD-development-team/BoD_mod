@@ -1,4 +1,4 @@
 capital = 439
 
-set_cosmetic_tag = IND_GBRbyENG
+set_cosmetic_tag = IND_GBRandIREbyENG
 set_dictatorship = yes

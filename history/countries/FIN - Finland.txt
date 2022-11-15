@@ -1,8 +1,4 @@
 capital = 111
 
-set_cosmetic_tag = FIN_republic
+set_cosmetic_tag = FIN_grand_duchy_RUS
 set_dictatorship = yes
-
-set_autonomy = {	target = CAY	autonomous_state = colony	}
-set_autonomy = {	target = GRL	autonomous_state = colony	}
-set_autonomy = {	target = TLS	autonomous_state = colony	}

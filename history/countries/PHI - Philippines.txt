@@ -1,2 +1,4 @@
 capital = 327
+
+set_cosmetic_tag = LUZON_JAP
 set_dictatorship = yes

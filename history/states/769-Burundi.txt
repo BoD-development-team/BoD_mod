@@ -6,8 +6,8 @@ state = {
 	state_category = pastoral
 	
 	history = {
-		owner = TAN
-		add_core_of = TAN
+		owner = EAF
+		add_core_of = EAF
 		add_core_of = BRD
 		buildings = {
 			infrastructure = 1

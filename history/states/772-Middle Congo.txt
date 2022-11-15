@@ -7,8 +7,8 @@ state = {
 	resources = {	rubber = 1	}
 	
 	history = {
-		owner = BYZ
-		add_core_of = BYZ
+		owner = EQA
+		add_core_of = EQA
 		add_core_of = RCG
 		buildings = {
 			infrastructure = 2

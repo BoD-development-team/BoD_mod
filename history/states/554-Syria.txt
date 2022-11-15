@@ -5,8 +5,8 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = JRS
-		add_core_of = JRS
+		owner = OTT
+		add_core_of = OTT
 		add_core_of = SYR
 		buildings = {
 			infrastructure = 2
@@ -16,7 +16,7 @@ state = {
 	}
 	
 	provinces = {
-		1074	4111	4486	4550	7184
+		1074	4111	4486	4550
 	}
 	local_supplies = 2.0
 }

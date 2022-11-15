@@ -1,4 +1,4 @@
 capital = 316
 
-set_cosmetic_tag = COUNTRY_PAN
+set_cosmetic_tag = COS_republic
 set_dictatorship = yes

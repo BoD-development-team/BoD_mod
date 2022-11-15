@@ -10,6 +10,8 @@
  overseas_territory:0 "海外領土"
  colony:0 "植民地"
  dominion:0 "自治領"
+ viceroyalty:0 "副王領"
+ captaincy_general:0 "総督領"
  colony_and_protectorate:0 "植民地及び保護領"
  colonies_federation:0 "植民地連邦"
  protected_territory:0 "保護領"

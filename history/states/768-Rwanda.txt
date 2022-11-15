@@ -8,8 +8,8 @@ state = {
 	resources = {	tungsten = 3	}
 	
 	history = {
-		owner = TAN
-		add_core_of = TAN
+		owner = EAF
+		add_core_of = EAF
 		add_core_of = RWA
 		buildings = {
 			infrastructure = 1

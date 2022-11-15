@@ -5,11 +5,11 @@ state = {
 	state_category = large_town
 	
 	history = {
-		owner = GBR
+		owner = HKG
+		add_core_of = HKG
 		add_core_of = CHI
-		add_claim_by = GBR
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 3
 			air_base = 1
 			10062 = {	naval_base = 6	}
 			10062 = {	coastal_bunker = 1	}

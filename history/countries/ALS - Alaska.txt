@@ -1,0 +1,4 @@
+capital = 463
+
+set_cosmetic_tag = AMERICA_RUS
+set_dictatorship = yes

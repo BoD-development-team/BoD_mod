@@ -1,2 +1,4 @@
 capital = 617
+
+set_cosmetic_tag = SIK_warlord
 set_dictatorship = yes

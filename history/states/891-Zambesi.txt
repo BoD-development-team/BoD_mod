@@ -8,8 +8,7 @@ state = {
 	resources = {	rubber = 1	}
 	
 	history = {
-		owner = BYZ
-		add_core_of = BYZ
+		owner = ANG
 		add_core_of = ANG
 		buildings = {
 			infrastructure = 1

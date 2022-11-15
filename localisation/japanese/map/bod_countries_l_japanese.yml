@@ -1032,6 +1032,14 @@
 #アメリカ諸州
 ##追加国家
 #アジア
+ ADN:0 "アデン"
+ ADN_DEF:0 "アデン"
+ ADN_ADJ:0 "アデン"
+ 
+ BHR:0 "バーレーン"
+ BHR_DEF:0 "バーレーン"
+ BHR_ADJ:0 "バーレーン"
+ 
  BRN:0 "ブルネイ"
  BRN_DEF:0 "ブルネイ"
  BRN_ADJ:0 "ブルネイ"
@@ -1044,13 +1052,81 @@
  DLI_DEF:0 "大連"
  DLI_ADJ:0 "大連"
  
+ FNG:0 "奉天"
+ FNG_DEF:0 "奉天"
+ FNG_ADJ:0 "奉天"
+ 
+ GOA:0 "ゴア"
+ GOA_DEF:0 "ゴア"
+ GOA_ADJ:0 "ゴア"
+ 
+ HIL:0 "ハーイル"
+ HIL_DEF:0 "ハーイル"
+ HIL_ADJ:0 "ハーイル"
+ 
+ HKG:0 "香港"
+ HKG_DEF:0 "香港"
+ HKG_ADJ:0 "香港"
+ 
  INC:0 "インドシナ"
  INC_DEF:0 "インドシナ"
  INC_ADJ:0 "インドシナ"
  
- JRS:0 "エルサレム"
- JRS_DEF:0 "エルサレム"
- JRS_ADJ:0 "エルサレム"
+ JOH:0 "ジョホール"
+ JOH_DEF:0 "ジョホール"
+ JOH_ADJ:0 "ジョホール"
+ 
+ KED:0 "ケダ"
+ KED_DEF:0 "ケダ"
+ KED_ADJ:0 "ケダ"
+ 
+ KEL:0 "クランタン"
+ KEL_DEF:0 "クランタン"
+ KEL_ADJ:0 "クランタン"
+ 
+ KFT:0 "樺太"
+ KFT_DEF:0 "樺太"
+ KFT_ADJ:0 "樺太"
+ 
+ MCA:0 "澳門"
+ MCA_DEF:0 "澳門"
+ MCA_ADJ:0 "澳門"
+ 
+ MSC:0 "マスカット"
+ MSC_DEF:0 "マスカット"
+ MSC_ADJ:0 "マスカット"
+ 
+ NAJ:0 "ナジュド"
+ NAJ_DEF:0 "ナジュド"
+ NAJ_ADJ:0 "ナジュド"
+ 
+ NAN:0 "南京"
+ NAN_DEF:0 "南京"
+ NAN_ADJ:0 "南京"
+ 
+ OTT:0 "オスマン"
+ OTT_DEF:0 "オスマン"
+ OTT_ADJ:0 "オスマン"
+ 
+ PRL:0 "プルリス"
+ PRL_DEF:0 "プルリス"
+ PRL_ADJ:0 "プルリス"
+ 
+ PUD:0 "ポンディシェリ"
+ PUD_DEF:0 "ポンディシェリ"
+ PUD_ADJ:0 "ポンディシェリ"
+ 
+ QIN:0 "青島"
+ QIN_DEF:0 "青島"
+ QIN_ADJ:0 "青島"
+ 
+ SAB:0 "サバ"
+ SAB_DEF:0 "サバ"
+ SAB_ADJ:0 "サバ"
+ 
+ SIN:0 "シンガポール"
+ SIN_DEF:0 "シンガポール"
+ SIN_ADJ:0 "シンガポール"
  
  SKM:0 "シッキム"
  SKM_DEF:0 "シッキム"
@@ -1060,13 +1136,9 @@
  SRW_DEF:0 "サラワク"
  SRW_ADJ:0 "サラワク"
  
- SYE:0 "南イエメン"
- SYE_DEF:0 "南イエメン"
- SYE_ADJ:0 "南イエメン"
- 
- TLS:0 "東ティモール"
- TLS_DEF:0 "東ティモール"
- TLS_ADJ:0 "東ティモール"
+ TER:0 "トレンガヌ"
+ TER_DEF:0 "トレンガヌ"
+ TER_ADJ:0 "トレンガヌ"
  
  TRK:0 "トルキスタン"
  TRK_DEF:0 "トルキスタン"
@@ -1076,22 +1148,22 @@
  TWN_DEF:0 "台湾"
  TWN_ADJ:0 "台湾"
  
+ ZHI:0 "直隷"
+ ZHI_DEF:0 "直隷"
+ ZHI_ADJ:0 "直隷"
+ 
 #ヨーロッパ
  ADR:0 "アンドラ"
  ADR_DEF:0 "アンドラ"
  ADR_ADJ:0 "アンドラ"
  
- BLT:0 "バルト"
- BLT_DEF:0 "バルト"
- BLT_ADJ:0 "バルト"
- 
- BYZ:0 "ビザンツ"
- BYZ_DEF:0 "ビザンツ"
- BYZ_ADJ:0 "ビザンツ"
- 
  GBR:0 "グレートブリテン"
  GBR_DEF:0 "グレートブリテン"
  GBR_ADJ:0 "グレートブリテン"
+ 
+ GIB:0 "ジブラルタル"
+ GIB_DEF:0 "ジブラルタル"
+ GIB_ADJ:0 "ジブラルタル"
  
  LIE:0 "リヒテンシュタイン"
  LIE_DEF:0 "リヒテンシュタイン"
@@ -1114,13 +1186,49 @@
  SMR_ADJ:0 "サンマリノ"
  
 #アフリカ
+ CPV:0 "カーボベルデ"
+ CPV_DEF:0 "カーボベルデ"
+ CPV_ADJ:0 "カーボベルデ"
+ 
+ EQA:0 "赤道アフリカ"
+ EQA_DEF:0 "赤道アフリカ"
+ EQA_ADJ:0 "赤道アフリカ"
+ 
+ LSO:0 "レソト"
+ LSO_DEF:0 "レソト"
+ LSO_ADJ:0 "レソト"
+ 
+ MUS:0 "モーリシャス"
+ MUS_DEF:0 "モーリシャス"
+ MUS_ADJ:0 "モーリシャス"
+ 
  RHO:0 "ローデシア"
  RHO_DEF:0 "ローデシア"
  RHO_ADJ:0 "ローデシア"
  
+ SCZ:0 "スエズ運河地帯"
+ SCZ_DEF:0 "スエズ運河地帯"
+ SCZ_ADJ:0 "スエズ運河地帯"
+ 
+ STP:0 "サントメ・プリンシペ"
+ STP_DEF:0 "サントメ・プリンシペ"
+ STP_ADJ:0 "サントメ・プリンシペ"
+ 
+ SWL:0 "スワジランド"
+ SWL_DEF:0 "スワジランド"
+ SWL_ADJ:0 "スワジランド"
+ 
+ SYC:0 "セーシェル"
+ SYC_DEF:0 "セーシェル"
+ SYC_ADJ:0 "セーシェル"
+ 
  TAN:0 "タンガニーカ"
  TAN_DEF:0 "タンガニーカ"
  TAN_ADJ:0 "タンガニーカ"
+ 
+ TGE:0 "タンジェ"
+ TGE_DEF:0 "タンジェ"
+ TGE_ADJ:0 "タンジェ"
  
  WAF:0 "西アフリカ"
  WAF_DEF:0 "西アフリカ"
@@ -1131,25 +1239,65 @@
  ZAN_ADJ:0 "ザンジバル"
  
 #新大陸
+ BMU:0 "バミューダ"
+ BMU_DEF:0 "バミューダ"
+ BMU_ADJ:0 "バミューダ"
+ 
  GRL:0 "グリーンランド"
  GRL_DEF:0 "グリーンランド"
  GRL_ADJ:0 "グリーンランド"
+ 
+ LEW:0 "リーワード"
+ LEW_DEF:0 "リーワード"
+ LEW_ADJ:0 "リーワード"
+ 
+ MTQ:0 "マルティニーク"
+ MTQ_DEF:0 "マルティニーク"
+ MTQ_ADJ:0 "マルティニーク"
+ 
+ NFL:0 "ニューファンドランド"
+ NFL_DEF:0 "ニューファンドランド"
+ NFL_ADJ:0 "ニューファンドランド"
+ 
+ SPM:0 "サンピエール及びミクロン"
+ SPM_DEF:0 "サンピエール及びミクロン"
+ SPM_ADJ:0 "サンピエール及びミクロン"
+ 
+ STH:0 "セントヘレナ"
+ STH_DEF:0 "セントヘレナ"
+ STH_ADJ:0 "セントヘレナ"
+ 
+ WIW:0 "ウィンドワード"
+ WIW_DEF:0 "ウィンドワード"
+ WIW_ADJ:0 "ウィンドワード"
  
 #大洋州
  KIR:0 "キリバス"
  KIR_DEF:0 "キリバス"
  KIR_ADJ:0 "キリバス"
  
- MHL:0 "マーシャル"
- MHL_DEF:0 "マーシャル"
- MHL_ADJ:0 "マーシャル"
+ NCL:0 "ニューカレドニア"
+ NCL_DEF:0 "ニューカレドニア"
+ NCL_ADJ:0 "ニューカレドニア"
  
- NMR:0 "ナウル"
- NMR_DEF:0 "ナウル"
- NMR_ADJ:0 "ナウル"
+ NGU:0 "ニューギニア"
+ NGU_DEF:0 "ニューギニア"
+ NGU_ADJ:0 "ニューギニア"
+ 
+ PAP:0 "パプア"
+ PAP_DEF:0 "パプア"
+ PAP_ADJ:0 "パプア"
+ 
+ PCN:0 "ピトケアン"
+ PCN_DEF:0 "ピトケアン"
+ PCN_ADJ:0 "ピトケアン"
  
  TVL:0 "ツバル"
  TVL_DEF:0 "ツバル"
  TVL_ADJ:0 "ツバル"
  
 #アメリカ諸州
+ ALS:0 "アラスカ"
+ ALS_DEF:0 "アラスカ"
+ ALS_ADJ:0 "アラスカ"
+ 

@@ -5,9 +5,9 @@ state = {
 	state_category = town
 	
 	history = {
-		owner = WIN
-		add_core_of = WIN
+		owner = JAM
 		add_core_of = JAM
+		add_core_of = WIN
 		buildings = {
 			infrastructure = 2
 			12304 = {	naval_base = 1	}

@@ -1,0 +1,4 @@
+capital = 333
+
+set_cosmetic_tag = SAB_GBRandIREbyENG
+set_dictatorship = yes

@@ -10,9 +10,8 @@ state = {
 	}
 	
 	history = {
-		owner = GBR
-		add_core_of = BRN
-		add_claim_by = GBR
+		owner = SAB
+		add_core_of = SAB
 		buildings = {
 			infrastructure = 2
 		}

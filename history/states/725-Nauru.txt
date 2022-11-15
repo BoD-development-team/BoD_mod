@@ -5,8 +5,8 @@ state = {
 	state_category = tiny_island
 	
 	history = {
-		owner = NMR
-		add_core_of = NMR
+		owner = NGU
+		add_core_of = NGU
 		buildings = {
 			infrastructure = 2
 			13038 = {	naval_base = 1	}

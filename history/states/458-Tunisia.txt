@@ -7,8 +7,7 @@ state = {
 	resources = {	steel = 6	}
 	
 	history = {
-		owner = BYZ
-		add_core_of = BYZ
+		owner = TUN
 		add_core_of = TUN
 		buildings = {
 			infrastructure = 2

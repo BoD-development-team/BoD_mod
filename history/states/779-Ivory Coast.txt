@@ -5,7 +5,8 @@ state = {
 	state_category = pastoral
 	
 	history={
-		owner = IVO
+		owner = WAF
+		add_core_of = WAF
 		add_core_of = IVO
 		buildings = {
 			infrastructure = 2

@@ -1,4 +1,2 @@
 capital = 291
-
-set_cosmetic_tag = IRQ_hashemite_kingdom
 set_dictatorship = yes

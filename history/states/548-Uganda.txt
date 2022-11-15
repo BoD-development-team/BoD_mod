@@ -8,8 +8,7 @@ state = {
 	resources = {	rubber = 3	}
 	
 	history = {
-		owner = KEN
-		add_core_of = KEN
+		owner = UGA
 		add_core_of = UGA
 		buildings = {
 			infrastructure = 2

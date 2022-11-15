@@ -1,4 +1,4 @@
 capital = 745
 
-set_cosmetic_tag = COUNTRY_JAP
+set_cosmetic_tag = COUNTRY_RUS
 set_dictatorship = yes

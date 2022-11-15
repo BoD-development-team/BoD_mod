@@ -1,4 +1,4 @@
 capital = 687
 
-set_cosmetic_tag = COUNTRY_DEN
+set_cosmetic_tag = GYA_GBRandIREbyENG
 set_dictatorship = yes

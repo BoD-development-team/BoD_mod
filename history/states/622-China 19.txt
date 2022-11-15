@@ -11,7 +11,8 @@ state = {
 	}
 	
 	history = {
-		owner = CHI
+		owner = XIB
+		add_core_of = XIB
 		add_core_of = CHI
 		add_core_of = SHA
 		buildings = {

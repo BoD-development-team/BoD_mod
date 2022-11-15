@@ -1,4 +1,4 @@
 capital = 690
 
-set_cosmetic_tag = BAH_state
+set_cosmetic_tag = BAH_GBRandIREbyENG
 set_dictatorship = yes
