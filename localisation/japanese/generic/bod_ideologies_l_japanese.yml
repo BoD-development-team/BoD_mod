@@ -1,0 +1,68 @@
+﻿l_japanese:
+#全体社会主義
+ total_socialism:0 "全体社会主義"
+ total_socialism_noun:0 "全体社会主義"
+ total_socialism_desc:0 "全体主義政権"
+ total_socialism_drift:0 "日毎の全体社会主義への支援"
+ total_socialism_acceptance:0 "全体社会主義との外交の容認"
+ total_socialism_ideology:0 "全体社会主義"
+ total_socialism_ideology_desc:0 ""
+ engelsism_ideology:0 "エンゲルス主義"
+ engelsism_ideology_desc:0 ""
+ 
+#革新社会主義
+ progressive_socialism:0 "革新社会主義"
+ progressive_socialism_noun:0 "革新社会主義"
+ progressive_socialism_desc:0 "革新政権"
+ progressive_socialism_drift:0 "日毎の革新社会主義への支援"
+ progressive_socialism_acceptance:0 "革新社会主義者との外交の容認"
+ progressive_socialism_ideology:0 "革新社会主義"
+ progressive_socialism_ideology_desc:0 ""
+ syndicalism_ideology:0 "労働組合主義"
+ syndicalism_ideology_desc:0 ""
+ 
+#民主主義左派
+ leftist_democracy:0 "民主主義左派"
+ leftist_democracy_noun:0 "民主主義左派"
+ leftist_democracy_desc:0 "民主主義政権"
+ leftist_democracy_drift:0 "日毎の民主主義左派への支援"
+ leftist_democracy_acceptance:0 "民主主義左派との外交の容認"
+ leftist_democracy_ideology:0 "民主主義左派"
+ leftist_democracy_ideology_desc:0 ""
+ 
+#民主主義中道
+ centrist_democracy:0 "民主主義中道"
+ centrist_democracy_noun:0 "民主主義中道"
+ centrist_democracy_desc:0 "民主主義政権"
+ centrist_democracy_drift:0 "日毎の民主主義中道への支援"
+ centrist_democracy_acceptance:0 "民主主義中道との外交の容認"
+ centrist_democracy_ideology:0 "民主主義中道"
+ centrist_democracy_ideology_desc:0 ""
+ 
+#民主主義右派
+ rightist_democracy:0 "民主主義右派"
+ rightist_democracy_noun:0 "民主主義右派"
+ rightist_democracy_desc:0 "民主主義政権"
+ rightist_democracy_drift:0 "日毎の民主主義右派への支援"
+ rightist_democracy_acceptance:0 "民主主義右派との外交の容認"
+ rightist_democracy_ideology:0 "民主主義右派"
+ rightist_democracy_ideology_desc:0 ""
+ 
+#権威反動主義
+ authoritarian_despotism:0 "権威専制主義"
+ authoritarian_despotism_noun:0 "権威専制主義"
+ authoritarian_despotism_desc:0 "権威主義政権"
+ authoritarian_despotism_drift:0 "日毎の権威専制主義への支援"
+ authoritarian_despotism_acceptance:0 "権威専制主義との外交の容認"
+ authoritarian_despotism_ideology:0 "権威専制主義"
+ authoritarian_despotism_ideology_desc:0 ""
+ 
+#国家協同主義
+ national_corporatism:0 "国家協同主義"
+ national_corporatism_noun:0 "国家協同主義"
+ national_corporatism_desc:0 "全体主義政権"
+ national_corporatism_drift:0 "日毎の国家協同主義への支援"
+ national_corporatism_acceptance:0 "国家協同主義との外交の容認"
+ national_corporatism_ideology:0 "国家協同主義"
+ national_corporatism_ideology_desc:0 ""
+ 

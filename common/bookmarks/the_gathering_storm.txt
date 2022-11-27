@@ -2,14 +2,14 @@ bookmarks = {
 	bookmark = {
 		name = ""
 		desc = ""
-		date = 1908.8.31.7
+		date = 1917.1.1.1
 		picture = "GFX_select_date_1936"
 		default_country = "JAP"
 		default = yes
 		
 		"JAP"={
 			history = ""
-			ideology = neutrality
+			ideology = authoritarian_despotism
 			ideas = {
 				
 			}	
