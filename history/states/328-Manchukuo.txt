@@ -7,9 +7,10 @@ state = {
 	resources = {	aluminium = 7	}
 	
 	history = {
-		owner = FNG
-		add_core_of = FNG
+		owner = ZHI
+		add_core_of = ZHI
 		add_core_of = CHI
+		add_core_of = FNG
 		add_core_of = MAN
 		buildings = {
 			infrastructure = 2

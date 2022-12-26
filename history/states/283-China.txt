@@ -8,9 +8,10 @@ state = {
 	resources = {	tungsten = 1	}
 	
 	history = {
-		owner = XIB
-		add_core_of = XIB
+		owner = ZHI
+		add_core_of = ZHI
 		add_core_of = CHI
+		add_core_of = XIB
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

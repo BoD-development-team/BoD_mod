@@ -5,10 +5,11 @@ state = {
 	buildings_max_level_factor = 1
 	state_category = rural
 	
-	history={
-		owner = XIB
-		add_core_of = XIB
+	history = {
+		owner = TIB
+		add_core_of = TIB
 		add_core_of = CHI
+		add_core_of = XIB
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 2
