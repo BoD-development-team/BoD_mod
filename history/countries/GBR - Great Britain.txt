@@ -17,7 +17,7 @@ set_autonomy = {	target = NFL	autonomous_state = dominion	}
 set_autonomy = {	target = NZL	autonomous_state = dominion	}
 set_autonomy = {	target = SAF	autonomous_state = dominion	}
 
-set_autonomy = {	target = AFG	autonomous_state = protected_state	}
+set_autonomy = {	target = BHR	autonomous_state = protected_state	}
 set_autonomy = {	target = BHU	autonomous_state = protected_state	}
 set_autonomy = {	target = BRN	autonomous_state = protected_state	}
 set_autonomy = {	target = JOH	autonomous_state = protected_state	}
@@ -26,7 +26,7 @@ set_autonomy = {	target = KEL	autonomous_state = protected_state	}
 set_autonomy = {	target = KUW	autonomous_state = protected_state	}
 set_autonomy = {	target = MAL	autonomous_state = protected_state	}
 set_autonomy = {	target = MLD	autonomous_state = protected_state	}
-set_autonomy = {	target = NEP	autonomous_state = protected_state	}
+set_autonomy = {	target = MSC	autonomous_state = protected_state	}
 set_autonomy = {	target = PRL	autonomous_state = protected_state	}
 set_autonomy = {	target = QAT	autonomous_state = protected_state	}
 set_autonomy = {	target = SKM	autonomous_state = protected_state	}
@@ -53,7 +53,6 @@ set_autonomy = {	target = KIR	autonomous_state = colony	}
 set_autonomy = {	target = LSO	autonomous_state = colony	}
 set_autonomy = {	target = MUS	autonomous_state = colony	}
 set_autonomy = {	target = PCN	autonomous_state = colony	}
-set_autonomy = {	target = RHO	autonomous_state = colony	}
 set_autonomy = {	target = SIN	autonomous_state = colony	}
 set_autonomy = {	target = SRL	autonomous_state = colony	}
 set_autonomy = {	target = STH	autonomous_state = colony	}
@@ -61,6 +60,7 @@ set_autonomy = {	target = SUD	autonomous_state = colony	}
 set_autonomy = {	target = SYC	autonomous_state = colony	}
 set_autonomy = {	target = TRI	autonomous_state = colony	}
 set_autonomy = {	target = MLT	autonomous_state = colony	}
+set_autonomy = {	target = ZIM	autonomous_state = colony	}
 
 set_autonomy = {	target = ADN	autonomous_state = colony_and_protectorate	}
 set_autonomy = {	target = GAM	autonomous_state = colony_and_protectorate	}
@@ -74,5 +74,6 @@ set_autonomy = {	target = SAB	autonomous_state = protected_territory	}
 set_autonomy = {	target = SOL	autonomous_state = protected_territory	}
 set_autonomy = {	target = SWL	autonomous_state = protected_territory	}
 set_autonomy = {	target = UGA	autonomous_state = protected_territory	}
+set_autonomy = {	target = ZAM	autonomous_state = protected_territory	}
 
 set_autonomy = {	target = SCZ	autonomous_state = leased_territory	}

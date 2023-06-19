@@ -10,4 +10,3 @@ set_autonomy = {	target = ALS	autonomous_state = colony	}
 set_autonomy = {	target = CCS	autonomous_state = viceroyalty	}
 set_autonomy = {	target = KAZ	autonomous_state = overseas_territory	}
 set_autonomy = {	target = TRK	autonomous_state = overseas_territory	}
-set_autonomy = {	target = DLI	autonomous_state = leased_territory	}

@@ -22,10 +22,6 @@
  SRL_colony_ADJ:0 "$OVERLORDADJ$領セイロン"
  
 #ヨーロッパ
- ICE_overseas_territory:0 "$OVERLORDADJ$領アイスランド"
- ICE_overseas_territory_DEF:0 "$OVERLORDADJ$領アイスランド"
- ICE_overseas_territory_ADJ:0 "$OVERLORDADJ$領アイスランド"
- 
  MLT_colony:0 "$OVERLORDADJ$領マルタ植民地"
  MLT_colony_DEF:0 "$OVERLORDADJ$領マルタ植民地"
  MLT_colony_ADJ:0 "$OVERLORDADJ$領マルタ"
@@ -135,6 +131,14 @@
  WES_colony_DEF:0 "$OVERLORDADJ$領サハラ植民地"
  WES_colony_ADJ:0 "$OVERLORDADJ$領サハラ"
  
+ ZAM_protected_territory:0 "$OVERLORDADJ$保護領北ローデシア"
+ ZAM_protected_territory_DEF:0 "$OVERLORDADJ$保護領北ローデシア"
+ ZAM_protected_territory_ADJ:0 "$OVERLORDADJ$領北ローデシア"
+ 
+ ZIM_colony:0 "$OVERLORDADJ$領南ローデシア植民地"
+ ZIM_colony_DEF:0 "$OVERLORDADJ$領南ローデシア植民地"
+ ZIM_colony_ADJ:0 "$OVERLORDADJ$領南ローデシア"
+ 
 #新大陸
  BAH_colony:0 "$OVERLORDADJ$領バハマ植民地"
  BAH_colony_DEF:0 "$OVERLORDADJ$領バハマ植民地"
@@ -218,7 +222,11 @@
  DLI_leased_territory:0 "$OVERLORDADJ$領大連租借地"
  DLI_leased_territory_DEF:0 "$OVERLORDADJ$領大連租借地"
  DLI_leased_territory_ADJ:0 "$OVERLORDADJ$領大連"
+ DLI_JAP_leased_territory:0 "$OVERLORDADJ$領関東州租借地"
+ DLI_JAP_leased_territory_DEF:0 "$OVERLORDADJ$領関東州租借地"
+ DLI_JAP_leased_territory_ADJ:0 "$OVERLORDADJ$領関東州"
  
+#アフリカ
  EGY_viceroyalty:0 "エジプト副王領"
  EGY_viceroyalty_DEF:0 "エジプト副王領"
  EGY_viceroyalty_ADJ:0 "$OVERLORDADJ$領エジプト"
@@ -273,9 +281,9 @@
  CPV_colony_DEF:0 "$OVERLORDADJ$領カーボベルデ植民地"
  CPV_colony_ADJ:0 "$OVERLORDADJ$領カーボベルデ"
  
- EQA_colonies_federation:0 "$OVERLORDADJ$領赤道アフリカ連邦"
- EQA_colonies_federation_DEF:0 "$OVERLORDADJ$領赤道アフリカ連邦"
- EQA_colonies_federation_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
+ EQA_colony:0 "$OVERLORDADJ$領赤道アフリカ植民地"
+ EQA_colony_DEF:0 "$OVERLORDADJ$領赤道アフリカ植民地"
+ EQA_colony_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
  
  LSO_colony:0 "$OVERLORDADJ$領バストランド植民地"
  LSO_colony_DEF:0 "$OVERLORDADJ$領バストランド植民地"
@@ -366,9 +374,13 @@
  STRAITS_GBRandIREbyENG_colony_ADJ:0 "$OVERLORDADJ$領海峡"
  
 #ヨーロッパ
- FIN_grand_duchy_RUS_junior_partner_state:0 "$OVERLORDADJ$領フィンランド大公国"
- FIN_grand_duchy_RUS_junior_partner_state_DEF:0 "$OVERLORDADJ$領フィンランド大公国"
- FIN_grand_duchy_RUS_junior_partner_state_ADJ:0 "$OVERLORDADJ$領フィンランド"
+ BOSandHRZ_AUS_condominium:0 "ボスニア及びヘルツェゴヴィナ共同統治領"
+ BOSandHRZ_AUS_condominium_DEF:0 "ボスニア及びヘルツェゴヴィナ共同統治領"
+ BOSandHRZ_AUS_condominium_ADJ:0 "ボスニア・ヘルツェゴヴィナ"
+ 
+ FIN_grand_duchy_RUS_junior_partner_state:0 "フィンランド大公国"
+ FIN_grand_duchy_RUS_junior_partner_state_DEF:0 "フィンランド大公国"
+ FIN_grand_duchy_RUS_junior_partner_state_ADJ:0 "フィンランド"
  
 #アフリカ
  RHO_SAF_company_GBRandIREbyENG_colony:0 "イギリス南アフリカ会社統治領ローデシア"

@@ -2,25 +2,56 @@ bookmarks = {
 	bookmark = {
 		name = ""
 		desc = ""
-		date = 1917.1.1.1
+		date = 1936.1.1.1
 		picture = "GFX_select_date_1936"
-		default_country = "JAP"
+		default_country = "GER"
 		default = yes
 		
+		"ITA"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
+		}
 		"JAP"={
 			history = ""
 			ideology = authoritarian_despotism
-			ideas = {
-				
-			}	
-			focuses = {
-				
-			}	
+			# ideas = {}
+			focuses = {}
 		}
-		
-		effect = {
-			randomize_weather = 22345 # <- Obligatory in every bookmark !
-			#123 = { rain_light = yes }
+		"GBR"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
 		}
+		"GER"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
+		}
+		"RUS"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
+		}
+		"FRA"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
+		}
+		"AUS"={
+			history = ""
+			ideology = authoritarian_despotism
+			# ideas = {}
+			focuses = {}
+		}
+		"---"={
+			history = "COUNTRY_start_desc"
+		}
+		effect = {	randomize_weather = 22345	}
 	}
 }

@@ -1036,6 +1036,10 @@
  ADN_DEF:0 "アデン"
  ADN_ADJ:0 "アデン"
  
+ ANH:0 "安徽"
+ ANH_DEF:0 "安徽"
+ ANH_ADJ:0 "安徽"
+ 
  BHR:0 "バーレーン"
  BHR_DEF:0 "バーレーン"
  BHR_ADJ:0 "バーレーン"
@@ -1056,9 +1060,17 @@
  FNG_DEF:0 "奉天"
  FNG_ADJ:0 "奉天"
  
+ GND:0 "広東"
+ GND_DEF:0 "広東"
+ GND_ADJ:0 "広東"
+ 
  GOA:0 "ゴア"
  GOA_DEF:0 "ゴア"
  GOA_ADJ:0 "ゴア"
+ 
+ GZH:0 "貴州"
+ GZH_DEF:0 "貴州"
+ GZH_ADJ:0 "貴州"
  
  HIL:0 "ハーイル"
  HIL_DEF:0 "ハーイル"
@@ -1068,9 +1080,17 @@
  HKG_DEF:0 "香港"
  HKG_ADJ:0 "香港"
  
+ HNN:0 "湖南"
+ HNN_DEF:0 "湖南"
+ HNN_ADJ:0 "湖南"
+ 
  INC:0 "インドシナ"
  INC_DEF:0 "インドシナ"
  INC_ADJ:0 "インドシナ"
+ 
+ JGS:0 "江蘇"
+ JGS_DEF:0 "江蘇"
+ JGS_ADJ:0 "江蘇"
  
  JOH:0 "ジョホール"
  JOH_DEF:0 "ジョホール"
@@ -1123,6 +1143,10 @@
  SAB:0 "サバ"
  SAB_DEF:0 "サバ"
  SAB_ADJ:0 "サバ"
+ 
+ SCH:0 "四川"
+ SCH_DEF:0 "四川"
+ SCH_ADJ:0 "四川"
  
  SIN:0 "シンガポール"
  SIN_DEF:0 "シンガポール"

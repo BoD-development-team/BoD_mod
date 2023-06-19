@@ -1,4 +1,4 @@
 capital = 44
 
-set_cosmetic_tag = ALB_principality
+set_cosmetic_tag = ALB_kingdom
 set_dictatorship = yes

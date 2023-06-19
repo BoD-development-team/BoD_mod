@@ -3,15 +3,14 @@ capital = 16
 set_cosmetic_tag = FRA_republic
 set_dictatorship = yes
 
-EQA = {	set_country_flag = federal_flag	}
 INC = {	set_country_flag = federal_flag	}
 WAF = {	set_country_flag = federal_flag	}
 
-set_autonomy = {	target = EQA	autonomous_state = colonies_federation	}
 set_autonomy = {	target = INC	autonomous_state = colonies_federation	}
 set_autonomy = {	target = WAF	autonomous_state = colonies_federation	}
 set_autonomy = {	target = CAY	autonomous_state = colony	}
 set_autonomy = {	target = DJI	autonomous_state = colony	}
+set_autonomy = {	target = EQA	autonomous_state = colony	}
 set_autonomy = {	target = GDL	autonomous_state = colony	}
 set_autonomy = {	target = MAD	autonomous_state = colony	}
 set_autonomy = {	target = NCL	autonomous_state = colony	}

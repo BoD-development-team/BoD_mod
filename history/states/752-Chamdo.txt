@@ -6,13 +6,13 @@ state = {
 	state_category = pastoral
 	
 	history = {
-		owner = NAN
-		add_core_of = NAN
+		owner = TIB
+		add_core_of = TIB
 		add_core_of = CHI
-		victory_points = {	4999	1	}
 		buildings = {
 			infrastructure = 1
 		}
+		victory_points = {	4999	1	}
 	}
 	
 	provinces = {

@@ -9,9 +9,9 @@
  GREATMONGOLIA_state_DEF:0 "大モンゴル国"
  GREATMONGOLIA_state_ADJ:0 "大モンゴル"
  
- IRAN_sublime_state:0 "崇高なるイラン国"
- IRAN_sublime_state_DEF:0 "崇高なるイラン国"
- IRAN_sublime_state_ADJ:0 "イラン"
+ IRAN_imperial_state:0 "イラン帝国"
+ IRAN_imperial_state_DEF:0 "イラン帝国"
+ IRAN_imperial_state_ADJ:0 "イラン"
  
  JABALSHAMMAR_emirate:0 "ジャバル・シャンマル首長国"
  JABALSHAMMAR_emirate_DEF:0 "ジャバル・シャンマル首長国"
@@ -25,6 +25,10 @@
  GERbyPRE_reich:0 "ドイツ国"
  GERbyPRE_reich_DEF:0 "ドイツ国"
  GERbyPRE_reich_ADJ:0 "ドイツ"
+ 
+ HUN_crown_lands:0 "神聖なるハンガリーの聖イシュトバーン王冠諸領邦"
+ HUN_crown_lands_DEF:0 "神聖なるハンガリーの聖イシュトバーン王冠諸領邦"
+ HUN_crown_lands_ADJ:0 "ハンガリー"
  
 #新大陸
  AMERICA_united_states_48:0 "アメリカ合衆国"
@@ -42,9 +46,13 @@
  NEJDandHASA_emirate_ADJ:0 "ナジュド・ハッサ"
  
 #ヨーロッパ
- AUSandHUN_land:0 "オーストリア諸邦及び神聖なるハンガリーのイシュトヴァーン王冠の諸邦"
- AUSandHUN_land_DEF:0 "オーストリア諸邦及び神聖なるハンガリーのイシュトヴァーン王冠の諸邦"
+ AUSandHUN_land:0 "オーストリア諸領邦及び神聖なるハンガリーの聖イシュトヴァーン王冠の諸邦"
+ AUSandHUN_land_DEF:0 "オーストリア諸領邦及び神聖なるハンガリーの聖イシュトヴァーン王冠の諸邦"
  AUSandHUN_land_ADJ:0 "オーストリア・ハンガリー"
+ 
+ CROandSLNandDAL_triune_kingdom:0 "クロアチア・スラボニア及びダルマチア三重王国"
+ CROandSLNandDAL_triune_kingdom_DEF:0 "クロアチア・スラボニア及びダルマチア三重王国"
+ CROandSLNandDAL_triune_kingdom_ADJ:0 "クロアチア"
  
  GBRandIREbyENG_united_kingdom:0 "グレートブリテン及びアイルランド連合王国"
  GBRandIREbyENG_united_kingdom_DEF:0 "グレートブリテン及びアイルランド連合王国"

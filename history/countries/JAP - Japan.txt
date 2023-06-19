@@ -8,3 +8,4 @@ set_autonomy = {	target = KFT	autonomous_state = overseas_territory	}
 set_autonomy = {	target = KOR	autonomous_state = overseas_territory	}
 set_autonomy = {	target = PHI	autonomous_state = overseas_territory	}
 set_autonomy = {	target = TWN	autonomous_state = overseas_territory	}
+set_autonomy = {	target = DLI	autonomous_state = leased_territory	}

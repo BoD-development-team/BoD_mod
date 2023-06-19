@@ -1,4 +1,4 @@
 capital = 100
 
-set_cosmetic_tag = COUNTRY_DEN
+set_cosmetic_tag = ICE_kingdom
 set_dictatorship = yes

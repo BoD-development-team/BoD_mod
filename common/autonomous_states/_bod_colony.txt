@@ -31,8 +31,6 @@ autonomy_state = {
 		overseas_territory
 		viceroyalty
 		captaincy_general
-		us_commonwealth
-		us_territory
 	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
 	can_lose_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
@@ -69,8 +67,6 @@ autonomy_state = {
 		overseas_territory
 		viceroyalty
 		captaincy_general
-		us_commonwealth
-		us_territory
 	}
 	allowed = {	NOT = {	has_country_flag = federal_flag	}	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
@@ -108,8 +104,6 @@ autonomy_state = {
 		overseas_territory
 		viceroyalty
 		captaincy_general
-		us_commonwealth
-		us_territory
 	}
 	allowed = {	has_country_flag = federal_flag	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
@@ -147,8 +141,6 @@ autonomy_state = {
 		overseas_territory
 		viceroyalty
 		captaincy_general
-		us_commonwealth
-		us_territory
 	}
 	allowed = {	has_country_flag = protectorate_flag	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
@@ -187,8 +179,6 @@ autonomy_state = {
 		colony_and_protectorate
 		colonies_federation
 		overseas_territory
-		us_commonwealth
-		us_territory
 	}
 	allowed = {
 		NOT = {	has_country_flag = viceroyalty_flag	}
@@ -229,8 +219,6 @@ autonomy_state = {
 		colony_and_protectorate
 		colonies_federation
 		viceroyalty
-		us_commonwealth
-		us_territory
 	}
 	allowed = {	has_country_flag = viceroyalty_flag	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}
@@ -268,8 +256,6 @@ autonomy_state = {
 		colony_and_protectorate
 		colonies_federation
 		captaincy_general
-		us_commonwealth
-		us_territory
 	}
 	allowed = {	has_country_flag = captaincy_general_flag	}
 	can_take_level = {	custom_trigger_tooltip = {	tooltip = RULE_CANNOT_USE_THIS_TT	always = no	}	}

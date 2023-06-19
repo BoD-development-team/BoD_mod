@@ -2,8 +2,8 @@
 ##バニラ
 #アジア
  
- AFG_emirate:0 "アフガニスタン首長国"
- AFG_emirate_DEF:0 "アフガニスタン首長国"
+ AFG_kingdom:0 "アフガニスタン王国"
+ AFG_kingdom_DEF:0 "アフガニスタン王国"
  
  
  
@@ -16,16 +16,14 @@
  
  
  
- CHI_empire:0 "中華帝国"
- CHI_empire_DEF:0 "中華帝国"
  CHI_minguo:0 "中華民国"
  CHI_minguo_DEF:0 "中華民国"
- CHI_republic:0 "中華共和国"
- CHI_republic_DEF:0 "中華共和国"
  
  
  
  
+ GXC_military_clique:0 "広西軍閥"
+ GXC_military_clique_DEF:0 "広西軍閥"
  
  
  
@@ -48,6 +46,8 @@
  
  
  
+ MEN_military_clique:0 "蒙古軍閥"
+ MEN_military_clique_DEF:0 "蒙古軍閥"
  
  MLD_sultanate:0 "モルディブ・スルタン国"
  MLD_sultanate_DEF:0 "モルディブ・スルタン国"
@@ -72,8 +72,8 @@
  SIA_kingdom:0 "シャム王国"
  SIA_kingdom_DEF:0 "シャム王国"
  
- SIK_warlord:0 "新疆軍閥"
- SIK_warlord_DEF:0 "新疆軍閥"
+ SIK_military_clique:0 "新疆軍閥"
+ SIK_military_clique_DEF:0 "新疆軍閥"
  
  
  SRL_kingdom:0 "スリランカ王国"
@@ -94,17 +94,19 @@
  
  
  
+ XIB_ma_military_clique:0 "西北馬軍閥"
+ XIB_ma_military_clique_DEF:0 "西北馬軍閥"
  
  
  
  
- YUN_warlord:0 "雲南軍閥"
- YUN_warlord_DEF:0 "雲南軍閥"
+ YUN_military_clique:0 "雲南軍閥"
+ YUN_military_clique_DEF:0 "雲南軍閥"
  
 #ヨーロッパ
  
- ALB_principality:0 "アルバニア公国"
- ALB_principality_DEF:0 "アルバニア公国"
+ ALB_kingdom:0 "アルバニア王国"
+ ALB_kingdom_DEF:0 "アルバニア王国"
  
  
  
@@ -153,6 +155,8 @@
  HUN_kingdom:0 "ハンガリー王国"
  HUN_kingdom_DEF:0 "ハンガリー王国"
  
+ ICE_kingdom:0 "アイスランド王国"
+ ICE_kingdom_DEF:0 "アイスランド王国"
  
  IRE_republic:0 "アイルランド共和国"
  IRE_republic_DEF:0 "アイルランド共和国"
@@ -379,6 +383,7 @@
 ##追加国家
 #アジア
  
+ 
  BHR_sheikhdom:0 "バーレーン首長国"
  BHR_sheikhdom_DEF:0 "バーレーン首長国"
  
@@ -387,12 +392,24 @@
  
  
  
- FNG_warlord:0 "奉天軍閥"
- FNG_warlord_DEF:0 "奉天軍閥"
+ FNG_military_clique:0 "奉天軍閥"
+ FNG_military_clique_DEF:0 "奉天軍閥"
+ 
+ GND_military_clique:0 "広東軍閥"
+ GND_military_clique_DEF:0 "広東軍閥"
+ 
+ 
+ GZH_military_clique:0 "貴州軍閥"
+ GZH_military_clique_DEF:0 "貴州軍閥"
  
  
  
+ HNN_military_clique:0 "湖南軍閥"
+ HNN_military_clique_DEF:0 "湖南軍閥"
  
+ 
+ JGS_military_clique:0 "江蘇軍閥"
+ JGS_military_clique_DEF:0 "江蘇軍閥"
  
  JOH_sultanate:0 "ジョホール・スルタン国"
  JOH_sultanate_DEF:0 "ジョホール・スルタン国"
@@ -413,9 +430,14 @@
  
  PRL_sultanate:0 "プルリス・スルタン国"
  PRL_sultanate_DEF:0 "プルリス・スルタン国"
+ PRL_sultanate:0 "プルリス・スルタン国"
+ PRL_sultanate_DEF:0 "プルリス・スルタン国"
  
  
  
+ 
+ SCH_military_clique:0 "四川軍閥"
+ SCH_military_clique_DEF:0 "四川軍閥"
  
  
  SKM_kingdom:0 "シッキム王国"
@@ -424,9 +446,13 @@
  SRW_raj:0 "サラワク王国"
  SRW_raj_DEF:0 "サラワク王国"
  
+ TER_sultanate:0 "トレンガヌ・スルタン国"
+ TER_sultanate_DEF:0 "トレンガヌ・スルタン国"
  
  
  
+ ZHI_military_clique:0 "直隷軍閥"
+ ZHI_military_clique_DEF:0 "直隷軍閥"
  
 #ヨーロッパ
  ADR_co-principality:0 "アンドラ共同公国"

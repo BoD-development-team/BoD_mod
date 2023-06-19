@@ -1,4 +1,7 @@
 capital = 4
 
-set_cosmetic_tag = AUSandHUN_land
+set_cosmetic_tag = AUS_lands
 set_dictatorship = yes
+
+set_autonomy = {	target = HUN	autonomous_state = junior_partner_state	}
+set_autonomy = {	target = BOS	autonomous_state = condominium	}

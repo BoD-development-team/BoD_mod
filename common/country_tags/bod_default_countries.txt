@@ -1,10 +1,15 @@
 #Asia
+ANH	= "countries/Asia.txt"	#安徽
 BRN	= "countries/Asia.txt"	#ブルネイ
 DLI	= "countries/Asia.txt"	#大連
 FNG	= "countries/Asia.txt"	#奉天
+GND	= "countries/Asia.txt"	#広東
 GOA	= "countries/Asia.txt"	#ゴア
+GZH	= "countries/Asia.txt"	#貴州
 HKG	= "countries/Asia.txt"	#香港
+HNN	= "countries/Asia.txt"	#湖南
 INC	= "countries/Asia.txt"	#インドシナ
+JGS	= "countries/Asia.txt"	#江蘇
 JOH	= "countries/Asia.txt"	#ジョホール
 KED	= "countries/Asia.txt"	#ケダ
 KEL	= "countries/Asia.txt"	#クランタン
@@ -20,6 +25,7 @@ PRL	= "countries/Asia.txt"	#プルリス
 PUD	= "countries/Asia.txt"	#ポンディシェリ
 QIN	= "countries/Asia.txt"	#青島
 SAB	= "countries/Asia.txt"	#サバ
+SCH	= "countries/Asia.txt"	#四川
 SIN	= "countries/Asia.txt"	#シンガポール
 SKM	= "countries/Asia.txt"	#シッキム
 SRW	= "countries/Asia.txt"	#サラワク

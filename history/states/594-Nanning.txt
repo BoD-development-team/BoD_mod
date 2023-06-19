@@ -11,10 +11,9 @@ state = {
 	}
 	
 	history = {
-		owner = NAN
-		add_core_of = NAN
-		add_core_of = CHI
+		owner = GXC
 		add_core_of = GXC
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

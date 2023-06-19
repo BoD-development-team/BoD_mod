@@ -5,5 +5,4 @@ set_dictatorship = yes
 
 EGY = {	set_country_flag = viceroyalty_flag	}
 
-set_autonomy = {	target = ALB	autonomous_state = protected_state	}
 set_autonomy = {	target = EGY	autonomous_state = viceroyalty	}

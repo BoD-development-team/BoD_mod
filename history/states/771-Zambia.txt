@@ -11,8 +11,7 @@ state = {
 	}
 	
 	history = {
-		owner = RHO
-		add_core_of = RHO
+		owner = ZAM
 		add_core_of = ZAM
 		buildings = {
 			infrastructure = 2

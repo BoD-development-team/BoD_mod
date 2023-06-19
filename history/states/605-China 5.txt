@@ -8,8 +8,8 @@ state = {
 	resources = {	steel = 14	}
 	
 	history = {
-		owner = NAN
-		add_core_of = NAN
+		owner = SCH
+		add_core_of = SCH
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 4

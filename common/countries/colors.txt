@@ -1041,6 +1041,10 @@ ADN = {	#アデン
 	color = rgb { 0 158 96 }
 	color_ui = rgb { 0 158 96 }
 }
+ANH = {	#安徽
+	color = rgb { 114 148 80 }
+	color_ui = rgb { 114 148 80 }
+}
 BHR = {	#バーレーン
 	color = rgb { 240 183 190 }
 	color_ui = rgb { 240 183 190 }
@@ -1061,9 +1065,17 @@ FNG = {	#奉天
 	color = rgb { 189 113 33 }
 	color_ui = rgb { 189 113 33 }
 }
+GND = {	#広東
+	color = rgb { 153 108 51 }
+	color_ui = rgb { 153 108 51 }
+}
 GOA = {	#ゴア
 	color = rgb { 30 90 180 }
 	color_ui = rgb { 30 90 180 }
+}
+GZH = {	#貴州
+	color = rgb { 68 68 68 }
+	color_ui = rgb { 68 68 68 }
 }
 HIL = {	#ハーイル
 	color = rgb { 248 196 32 }
@@ -1073,9 +1085,17 @@ HKG = {	#香港
 	color = rgb { 15 117 98 }
 	color_ui = rgb { 15 117 98 }
 }
+HNN = {	#湖南
+	color = rgb { 80 135 224 }
+	color_ui = rgb { 80 135 224 }
+}
 INC = {	#インドシナ
 	color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 }
+}
+JGS = {	#江蘇
+	color = rgb { 190 165 140 }
+	color_ui = rgb { 190 165 140 }
 }
 JOH = {	#ジョホール
 	color = rgb { 137 26 68 }
@@ -1128,6 +1148,10 @@ QIN = {	#青島
 SAB = {	#サバ
 	color = rgb { 119 204 255 }
 	color_ui = rgb { 119 204 255 }
+}
+SCH = {	#四川
+	color = rgb { 188 155 71 }
+	color_ui = rgb { 188 155 71 }
 }
 SIN = {	#シンガポール
 	color = rgb { 241 86 98 }
