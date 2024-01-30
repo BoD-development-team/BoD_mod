@@ -1,7 +1,7 @@
-state = { 
+state = {
 	id = 577
-	manpower = 29299
 	name = "STATE_577"
+	manpower = 29299
 	state_category = pastoral
 	
 	resources = {	oil = 13	}

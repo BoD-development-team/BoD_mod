@@ -4,7 +4,7 @@ state = {
 	manpower = 1915600
 	state_category = city
 	
-	resources = {	steel = 100	}
+	resources = {	steel = 42	}
 	
 	history = {
 		owner = GER
@@ -13,12 +13,19 @@ state = {
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
-			anti_air_building = 5
 			air_base = 5
+			anti_air_building = 5
+			549 = {	bunker = 10	}
+			678 = {	bunker = 10	}
+			3629 = {	bunker = 10	}
+			6529 = {	bunker = 10	}
+			9503 = {	bunker = 10	}
+			9559 = {	bunker = 10	}
+			11502 = {	bunker = 10	}
 		}
-		victory_points = { 678 5 }
-		victory_points = { 9503 5 }
-		victory_points = { 9559 10 }
+		victory_points = {	678	5	}
+		victory_points = {	9503	5	}
+		victory_points = {	9559	10	}
 	}
 	
 	provinces = {

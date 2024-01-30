@@ -11,8 +11,8 @@ state = {
 		add_core_of = TRA
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 			industrial_complex = 1
+			arms_factory = 1
 		}
 		victory_points = {	6682	1	}
 	}

@@ -4,11 +4,11 @@ state = {
 	manpower = 667100
 	state_category = town
 	
-	history =  {
+	history = {
 		owner = GBR
 		add_core_of = GBR
 		add_core_of = IRE
-		buildings = {	
+		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {	9303	3	}

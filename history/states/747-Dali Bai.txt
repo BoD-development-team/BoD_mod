@@ -9,10 +9,10 @@ state = {
 		owner = YUN
 		add_core_of = YUN
 		add_core_of = CHI
-		victory_points = {	7965	3	}
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {	7965	3	}
 	}
 	
 	provinces = {

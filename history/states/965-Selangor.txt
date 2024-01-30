@@ -1,0 +1,21 @@
+state = {
+	id = 965
+	name = "STATE_965"
+	manpower = 28900
+	state_category = large_town
+	
+	history = {
+		owner = MAL
+		add_core_of = MAL
+		buildings = {
+			infrastructure = 2
+			10297 = {	naval_base = 5	}
+		}
+		victory_points = {	10297	1	}
+	}
+	
+	provinces = {
+		10297
+	}
+	local_supplies = 0.0
+}

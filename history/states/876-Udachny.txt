@@ -1,5 +1,5 @@
 state = {
-	id = 876 
+	id = 876
 	name = "STATE_876"
 	manpower = 12182
 	buildings_max_level_factor = 1
@@ -8,11 +8,10 @@ state = {
 	history = {
 		owner = RUS
 		add_core_of = RUS
-		add_core_of = YAK
+		add_core_of = SKH
 		buildings = {
 			infrastructure = 1
 		}
-		victory_points = {	6085	1	}
 	}
 	
 	provinces = {

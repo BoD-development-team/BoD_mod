@@ -5,9 +5,8 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = CHL
-		add_core_of = CHL
-		add_core_of = ARG
+		owner = ARG
+		add_claim_by = ARG
 		buildings = {
 			infrastructure = 1
 			12960 = {	naval_base = 1	}

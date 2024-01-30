@@ -17,9 +17,11 @@ state = {
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			9938 = {	naval_base = 1	}
-			9938 = {	coastal_bunker = 1	}
-			9938 = {	bunker = 1	}
+			9938 = {
+				naval_base = 1
+				bunker = 1
+				coastal_bunker = 1
+			}
 		}
 	}
 	

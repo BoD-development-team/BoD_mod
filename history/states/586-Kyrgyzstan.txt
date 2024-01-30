@@ -6,17 +6,16 @@ state = {
 	state_category = city
 	
 	resources = {
+		aluminium = 10
+		tungsten = 4
 		steel = 20
 		chromium = 12
-		tungsten = 4
-		aluminium = 10
 	}
 	
 	history = {
 		owner = TRK
 		add_core_of = TRK
 		add_core_of = KAZ
-		add_core_of = SOV
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 3

@@ -11,7 +11,7 @@ state = {
 		owner = NAJ
 		add_core_of = NAJ
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 			12702 = {	naval_base = 6	}
 		}
 	}

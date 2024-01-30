@@ -4,6 +4,8 @@ state = {
 	manpower = 18000
 	state_category = wasteland
 	
+	resources = {	aluminium = 10	}
+	
 	history = {
 		owner = GRL
 		add_core_of = GRL
@@ -11,6 +13,7 @@ state = {
 			infrastructure = 1
 			12512 = {	naval_base = 1	}
 		}
+		victory_points = {	12512	1	}
 	}
 	
 	provinces = {

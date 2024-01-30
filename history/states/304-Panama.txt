@@ -12,8 +12,8 @@ state = {
 		add_core_of = PAN
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 2
 			arms_factory = 1
-			industrial_complex = 2 
 			air_base = 1
 			4611 = {	naval_base = 1	}
 			7630 = {	naval_base = 4	}

@@ -10,7 +10,6 @@ state = {
 	history = {
 		owner = CCS
 		add_core_of = CCS
-		add_core_of = NCC
 		add_core_of = KBK
 		buildings = {
 			infrastructure = 2

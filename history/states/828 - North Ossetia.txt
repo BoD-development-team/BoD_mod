@@ -8,9 +8,8 @@ state = {
 	resources = {	chromium = 8	}
 	
 	history = {
-		owner = CCS
-		add_core_of = CCS
-		add_core_of = NCC
+		owner = RUS
+		add_core_of = RUS
 		add_core_of = NOA
 		buildings = {
 			infrastructure = 2

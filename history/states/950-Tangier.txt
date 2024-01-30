@@ -1,0 +1,22 @@
+state = {
+	id = 950
+	name = "STATE_950"
+	manpower = 198000
+	buildings_max_level_factor = 1
+	state_category = city
+	
+	history = {
+		owner = TGE
+		add_core_of = TGE
+		add_core_of = MOR
+		add_core_of = RIF
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	
+	provinces = {
+		13279
+	}
+	local_supplies = 0.0
+}

@@ -1,9 +1,9 @@
 state = {
 	id = 768
 	name = "STATE_768"
-	state_category = pastoral
 	manpower = 1716564
 	buildings_max_level_factor = 1
+	state_category = pastoral
 	
 	resources = {	tungsten = 3	}
 	

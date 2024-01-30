@@ -9,10 +9,9 @@ state = {
 		tungsten = 92
 	}
 	
-	history={
+	history = {
 		owner = IND
 		add_core_of = BRM
-		add_claim_by = IND
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

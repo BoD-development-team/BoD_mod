@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = GOA
 		add_core_of = GOA
-		add_core_of = RAJ
+		add_core_of = IND
 		buildings = {
 			infrastructure = 3
 			1273 = {	naval_base = 1	}

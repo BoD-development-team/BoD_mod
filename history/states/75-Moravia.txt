@@ -5,8 +5,8 @@ state = {
 	state_category = city
 	
 	resources = {
-		steel = 4
 		oil = 2
+		steel = 4
 	}
 	
 	history = {
@@ -17,7 +17,6 @@ state = {
 			infrastructure = 4
 			industrial_complex = 4
 			air_base = 5
-			
 		}
 		victory_points = {	3569	20	}
 		victory_points = {	6562	5	}

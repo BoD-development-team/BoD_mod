@@ -13,8 +13,8 @@ state = {
 		add_claim_by = KUR
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 2
 			arms_factory = 1
-			industrial_complex = 2 
 			air_base = 4
 			2089 = {	naval_base = 1	}
 		}

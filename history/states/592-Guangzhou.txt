@@ -16,12 +16,14 @@ state = {
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
-			arms_factory = 2
 			industrial_complex = 2
+			arms_factory = 2
 			air_base = 3
-			1047 = {	naval_base = 5	}
-			1047 = {	coastal_bunker = 1	}
-			1047 = {	bunker = 1	}
+			1047 = {
+				naval_base = 5
+				bunker = 1
+				coastal_bunker = 1
+			}
 		}
 		victory_points = {	1047	5	}
 	}

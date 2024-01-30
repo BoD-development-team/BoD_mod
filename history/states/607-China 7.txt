@@ -8,10 +8,11 @@ state = {
 	history = {
 		owner = CHI
 		add_core_of = CHI
-		add_core_of = ANH
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
+			arms_factory = 2
+			air_base = 2
 		}
 		victory_points = {	9958	1	}
 	}

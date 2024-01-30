@@ -5,14 +5,14 @@ state = {
 	state_category = rural
 	
 	resources = {
-		steel = 14
 		tungsten = 6
+		steel = 14
 	}
 	
 	history = {
 		owner = RUS
 		add_core_of = RUS
-		add_core_of = VLG
+		add_core_of = VGE
 		buildings = {
 			infrastructure = 3
 		}

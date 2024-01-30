@@ -7,11 +7,11 @@ state = {
 	resources = {	rubber = 1	}
 	
 	history = {
-		owner = GNB
+		owner = POR
 		add_core_of = GNB
 		buildings = {
 			infrastructure = 1
-			12891 ={	naval_base = 1	}
+			12891 = {	naval_base = 1	}
 		}
 		victory_points = {	12891	1	}
 	}

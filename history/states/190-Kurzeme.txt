@@ -2,8 +2,8 @@ state = {
 	id = 190
 	name = "STATE_190"
 	manpower = 315500
-	state_category = rural
 	buildings_max_level_factor = 1
+	state_category = rural
 	
 	history = {
 		owner = RUS
@@ -21,5 +21,5 @@ state = {
 	provinces = {
 		3194	3296	3319	6322	9262	11246
 	}
-	local_supplies = 0.0
+	local_supplies = 5.0
 }

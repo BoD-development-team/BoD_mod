@@ -2,14 +2,13 @@ state = {
 	id = 852
 	name = "STATE_852"
 	manpower = 125850
-	state_category = town 
+	state_category = town
 	
 	history = {
 		owner = AUS
 		add_core_of = AUS
-		add_core_of = CRO
 		add_core_of = ITA
-		add_core_of = YUG
+		add_core_of = CRO
 		buildings = {
 			infrastructure = 3
 			dockyard = 1

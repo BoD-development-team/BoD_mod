@@ -1,17 +1,16 @@
 state = {
 	id = 762
 	name = "STATE_762"
-	manpower=1000000
+	manpower = 1000000
 	state_category = city
 	
 	resources = {
-		steel = 19
 		aluminium = 7
+		steel = 19
 	}
 	
 	history = {
-		owner = AUS
-		add_core_of = AUS
+		owner = GER
 		add_core_of = GER
 		add_core_of = POL
 		add_core_of = SIL

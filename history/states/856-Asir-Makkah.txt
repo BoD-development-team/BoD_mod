@@ -2,14 +2,14 @@ state = {
 	id = 856
 	name = "STATE_856"
 	manpower = 500000
+	buildings_max_level_factor = 1
 	state_category = pastoral
 	
 	history = {
 		owner = OTT
 		add_core_of = OTT
-		add_core_of = SAU
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
 	}
 	

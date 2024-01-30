@@ -5,6 +5,12 @@ state = {
 	buildings_max_level_factor = 1
 	state_category = rural
 	
+	resources = {
+		tungsten = 8
+		steel = 8
+		chromium = 4
+	}
+	
 	history = {
 		owner = GHA
 		add_core_of = GHA

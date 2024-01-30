@@ -8,9 +8,7 @@ state = {
 	history = {
 		owner = OTT
 		add_core_of = OTT
-		add_core_of = SAU
 		buildings = {
-			infrastructure = 1
 		}
 	}
 	

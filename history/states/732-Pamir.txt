@@ -9,7 +9,6 @@ state = {
 		owner = TRK
 		add_core_of = TRK
 		add_core_of = KYR
-		add_core_of = SOV
 		buildings = {
 			infrastructure = 1
 		}

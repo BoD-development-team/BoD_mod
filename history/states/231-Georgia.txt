@@ -13,8 +13,10 @@ state = {
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 3
-			3653 = {	naval_base = 2	}
-			3653 = {	coastal_bunker = 1	}
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+			}
 		}
 		victory_points = {	1599	5	}
 		victory_points = {	3653	3	}

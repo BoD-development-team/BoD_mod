@@ -1,0 +1,19 @@
+state = {
+	id = 966
+	name = "STATE_966"
+	manpower = 28900
+	state_category = large_town
+	
+	history = {
+		owner = MAL
+		add_core_of = MAL
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1348	1392	4384	7399	12255	12271
+	}
+	local_supplies = 0.0
+}

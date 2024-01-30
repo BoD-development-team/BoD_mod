@@ -5,8 +5,8 @@ state = {
 	state_category = metropolis
 	
 	resources = {
-		steel = 59
 		aluminium = 14
+		steel = 50
 	}
 	
 	history = {
@@ -15,6 +15,8 @@ state = {
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
+			synthetic_refinery = 3
+			radar_station = 1
 		}
 		victory_points = {	11435	1	}
 		victory_points = {	11531	5	}

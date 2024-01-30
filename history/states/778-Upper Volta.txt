@@ -8,14 +8,14 @@ state = {
 		owner = WAF
 		add_core_of = WAF
 		add_core_of = VOL
-		victory_points = {	10836	1	}
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {	10836	1	}
 	}
 	
 	provinces = {
 		2001	7950	7983	8071	10836	12851
 	}
-	local_supplies = 0.0
+	local_supplies = 1.0
 }

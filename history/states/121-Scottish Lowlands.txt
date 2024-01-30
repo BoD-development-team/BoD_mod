@@ -8,8 +8,6 @@ state = {
 		owner = GBR
 		add_core_of = GBR
 		add_core_of = SCO
-		victory_points = {	9392	10	}
-		victory_points = {	6300	1	}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -17,6 +15,8 @@ state = {
 			air_base = 3
 			6300 = {	naval_base = 5	}
 		}
+		victory_points = {	6300	1	}
+		victory_points = {	9392	10	}
 	}
 	
 	provinces = {

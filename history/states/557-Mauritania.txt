@@ -4,7 +4,7 @@ state = {
 	manpower = 225000
 	state_category = pastoral
 	
-	history={
+	history = {
 		owner = WAF
 		add_core_of = WAF
 		add_core_of = MRT

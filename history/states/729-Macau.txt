@@ -5,8 +5,7 @@ state = {
 	state_category = enclave
 	
 	history = {
-		owner = MCA
-		add_core_of = MCA
+		owner = POR
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 2

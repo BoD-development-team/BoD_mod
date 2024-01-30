@@ -1,17 +1,17 @@
 state = {
 	id = 145
 	name = "STATE_145"
-	manpower = 27400
+	manpower = 28139
 	state_category = small_island
 	
 	history = {
 		owner = FIN
 		add_core_of = FIN
-		add_core_of = SWE
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			9228 = {	naval_base = 1	}
 		}
+		victory_points = {	9228	1	}
 	}
 	
 	provinces = {
